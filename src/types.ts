@@ -40,13 +40,13 @@ export type GenerateFromMessagesOptions<T extends ExportReturnType> = Partial<{
   filename: string;
 
   /**
-   * Whether to include the "Powered by discord-html-transcripts" footer
+   * Whether to include the "Desenvolvido por discord-html-transcripts" footer
    * @default true
    */
   poweredBy: boolean;
 
   /**
-   * The message right before "Powered by" text. Remember to put the {s}
+   * The message right before "Desenvolvido por" text. Remember to put the {s}
    * @default 'Exported {number} message{s}.'
    */
   footerText: string;
