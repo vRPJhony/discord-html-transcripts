@@ -10,7 +10,7 @@ Discord HTML Transcripts is a node.js module to generate nice-looking HTML trans
 
 Join the [Discord Server](https://discord.gg/VgMxx2NAu4) and create a new forum post if you need help. You can also follow the announcement channel to get updates whenever a new version is released.
 
-If you find a bug, please create a post on [GitHub](https://github.com/ItzDerock/discord-html-transcripts/issues).
+If you find a bug, please create a post on [GitHub](https://github.com/vRPJhony/discord-html-transcripts/issues).
 
 ## Getting Started
 
@@ -46,7 +46,7 @@ yarn add discord-html-transcripts
 
 The code to this module can be found on GitHub:
 
-{% embed url="https://github.com/ItzDerock/discord-html-transcripts" %}
+{% embed url="https://github.com/vRPJhony/discord-html-transcripts" %}
 ItzDerock/discord-html-transcripts
 {% endembed %}
 

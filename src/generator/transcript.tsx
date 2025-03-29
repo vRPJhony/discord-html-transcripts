@@ -60,7 +60,7 @@ export default async function DiscordMessages({ messages, channel, callbacks, ..
         {options.poweredBy ? (
           <span style={{ textAlign: 'center' }}>
             Desenvolvido por{' '}
-            <a href="https://github.com/ItzDerock/discord-html-transcripts" style={{ color: 'lightblue' }}>
+            <a href="https://github.com/vRPJhony/discord-html-transcripts" style={{ color: 'lightblue' }}>
               discord-html-transcripts
             </a>
             .
